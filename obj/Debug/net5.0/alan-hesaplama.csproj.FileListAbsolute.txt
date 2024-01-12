@@ -1,0 +1,15 @@
+D:\PatikaDev\Patika_Odev\C#-Projeleri\alan-hesaplama\bin\Debug\net5.0\alan-hesaplama.exe
+D:\PatikaDev\Patika_Odev\C#-Projeleri\alan-hesaplama\bin\Debug\net5.0\alan-hesaplama.deps.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\alan-hesaplama\bin\Debug\net5.0\alan-hesaplama.runtimeconfig.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\alan-hesaplama\bin\Debug\net5.0\alan-hesaplama.runtimeconfig.dev.json
+D:\PatikaDev\Patika_Odev\C#-Projeleri\alan-hesaplama\bin\Debug\net5.0\alan-hesaplama.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\alan-hesaplama\bin\Debug\net5.0\alan-hesaplama.pdb
+D:\PatikaDev\Patika_Odev\C#-Projeleri\alan-hesaplama\obj\Debug\net5.0\alan-hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_Odev\C#-Projeleri\alan-hesaplama\obj\Debug\net5.0\alan-hesaplama.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\alan-hesaplama\obj\Debug\net5.0\alan-hesaplama.AssemblyInfo.cs
+D:\PatikaDev\Patika_Odev\C#-Projeleri\alan-hesaplama\obj\Debug\net5.0\alan-hesaplama.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\alan-hesaplama\obj\Debug\net5.0\alan-hesaplama.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\alan-hesaplama\obj\Debug\net5.0\refint\alan-hesaplama.dll
+D:\PatikaDev\Patika_Odev\C#-Projeleri\alan-hesaplama\obj\Debug\net5.0\alan-hesaplama.pdb
+D:\PatikaDev\Patika_Odev\C#-Projeleri\alan-hesaplama\obj\Debug\net5.0\alan-hesaplama.genruntimeconfig.cache
+D:\PatikaDev\Patika_Odev\C#-Projeleri\alan-hesaplama\obj\Debug\net5.0\ref\alan-hesaplama.dll
